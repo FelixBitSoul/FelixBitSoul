@@ -1,4 +1,4 @@
-# Hi, I'm Felix Wang (汪保伟) 👨‍💻
+# Hi, I'm Felix Wang 👨‍💻
 
 > **Full-stack Engineer | AI Application Developer | Cloud Native Enthusiast**
 > *“Bit by bit, coding with soul.”*
