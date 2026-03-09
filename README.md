@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Felix Wang (汪保伟) 👨‍💻
 
-<!--
-**FelixBitSoul/FelixBitSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Full-stack Engineer | AI Application Developer | Cloud Native Enthusiast**
+> *“Bit by bit, coding with soul.”*
 
-Here are some ideas to get you started:
+I am a disciplined and detail-oriented developer based in **Shenzhen, China**. I specialize in building high-performance web applications, integrating AI capabilities, and architecting cloud-native infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+#### 🤖 AI & Python Ecosystem
+* **Languages:** Python
+* **Focus:** AI Application Development, LLM Integration, Automation Scripts.
+
+#### ☁️ Cloud Native & DevOps (Go)
+* **Languages:** Go (Golang)
+* **Infrastructure:** Docker, Kubernetes (K8s)
+* **Tools:** CI/CD Pipelines, Microservices Architecture, Cloud-native solutions.
+
+#### 🌐 Full-stack Development (TS/JS)
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, TypeScript
+* **State Management:** Redux / Context API
+
+#### 🗄️ Data & Middleware
+* **Databases:** MySQL / PostgreSQL
+* **Caching:** Redis
+* **Messaging:** Message Queues (RabbitMQ/Kafka)
+
+---
+
+### 🔍 Current Focus
+- 🚀 Developing AI-powered web applications using **Next.js** and **Python**.
+- 🏗️ Deep diving into **K8s** orchestration and **Go**-based microservices.
+- ⚡ Optimizing system performance with **Redis** and asynchronous processing.
+
+---
+
+### 📈 GitHub Stats
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixBitSoul&show_icons=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBitSoul&layout=compact&theme=transparent)
+
+---
+
+### 📫 Contact & Info
+* **Location:** Shenzhen, China (UTC+8)
+* **Email:** [felixbitsoul@gmail.com](mailto:felixbitsoul@gmail.com)
+* **GitHub:** [FelixBitSoul](https://github.com/FelixBitSoul)
+* **Availability:** Open to remote collaboration and innovative projects.
