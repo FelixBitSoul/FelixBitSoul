@@ -43,8 +43,8 @@ I am a seasoned developer based in **Shenzhen, China**, with over a decade of ex
 
 ### 📊 GitHub Stats
 ![Metrics](github-metrics-svg.svg)
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixBitSoul&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBitSoul&layout=compact&theme=transparent)
+![Felix's GitHub stats](https://github-readme-stats-chi-pearl-65.vercel.app/api?username=FelixBitSoul&show_icons=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats-chi-pearl-65.vercel.app/api/top-langs/?username=FelixBitSoul&layout=compact&theme=transparent)
 
 ---
 
